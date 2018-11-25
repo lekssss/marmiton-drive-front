@@ -1,0 +1,17 @@
+
+#mdrive-search-container {
+    text-align: center;
+}
+
+.mdrive-search-form {
+    width: 300px;
+    margin-left: 50px;
+}
+  
+.mdrive-search-input {
+    margin-top: 15px;
+    height: 100px;
+    width: 500px;
+    font-size: 70px;
+    /*height: 100px;*/
+}

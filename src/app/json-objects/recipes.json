@@ -1,0 +1,667 @@
+{
+    "recipe1": {
+		"url":"https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2017/09/Creamy-Slow-Cooker-Cheeseburge-Soup-Horizontal-11.jpg",
+        "_id": "5bf92a2a7bb880352b3d6f7c",
+        "title": "Cheeseburger Soup I",
+        "difficulty": 1,
+        "ingredients_clean": [
+            [
+                0.5,
+                "pound",
+                "ground beef",
+                null,
+                null
+            ],
+            [
+                0.75,
+                "cup",
+                "chopped onion",
+                null,
+                null
+            ],
+            [
+                0.75,
+                "cup",
+                "shredded carrots",
+                null,
+                null
+            ],
+            [
+                0.75,
+                "cup",
+                "chopped celery",
+                null,
+                null
+            ],
+            [
+                1,
+                "teaspoon",
+                "dried basil",
+                null,
+                null
+            ],
+            [
+                1,
+                "teaspoon",
+                "dried parsley",
+                null,
+                null
+            ],
+            [
+                4,
+                "tablespoon",
+                "butter",
+                null,
+                null
+            ],
+            [
+                3,
+                "cup",
+                "chicken broth",
+                null,
+                null
+            ],
+            [
+                4,
+                "cup",
+                "cubed potatoes",
+                null,
+                null
+            ],
+            [
+                0.25,
+                "cup",
+                "all-purpose flour",
+                null,
+                null
+            ],
+            [
+                2,
+                "cup",
+                "cubed Cheddar cheese",
+                null,
+                null
+            ],
+            [
+                1.5,
+                "cup",
+                "milk",
+                null,
+                null
+            ],
+            [
+                0.25,
+                "cup",
+                "sour cream",
+                null,
+                null
+            ]
+        ],
+        "instructions": "In a large pot, melt 1 tablespoon butter or margarine over medium heat: cook and stir vegetables and beef , until beef is brown.\nStir in basil and parsley. Add broth and potatoes. Bring to a boil, then simmer until potatoes are tender, about 10-12 minutes.\nMelt the remainder of butter and stir in flour. Add the milk, stirring until smooth.\nGradually add milk mixture to the soup, stirring constantly. Bring to a boil and reduce heat to simmer. Stir in cheese. When cheese is melted, add sour cream and heat through. Do not boil.\n",
+        "number of parts": 4,
+        "picture_link": "zAnRQWKXnwNJRfGCq6/pErPQUM5050e",
+        "tags": [
+            "vegan"
+        ],
+        "tags_2": "vegan"
+    },
+    "recipe2": {
+		"url":"https://img.taste.com.au/SgrEIp95/taste/2016/11/cream-cheese-frosting-76378-1.jpeg",
+        "_id": "5bf92a2a7bb880352b3d6fae",
+        "title": "Basic Cream Cheese Frosting",
+        "difficulty": 1,
+        "ingredients_clean": [
+            [
+                0.5,
+                null,
+                "butter",
+                "softened",
+                null
+            ],
+            [
+                8,
+                "ounce",
+                "cream cheese",
+                null,
+                null
+            ],
+            [
+                4,
+                "cup",
+                "confectioners' sugar",
+                null,
+                null
+            ],
+            [
+                2,
+                "teaspoon",
+                "vanilla extract",
+                null,
+                null
+            ]
+        ],
+        "instructions": "Beat softened butter and cream cheese until well blended.\nAdd powdered sugar and vanilla. Beat until creamy.\n",
+        "number of parts": 4,
+        "picture_link": "EsLj9KUB17wAnRRGndPQrYUOH6vr2mq",
+        "tags": [
+            "dessert"
+        ],
+        "tags_2": "dessert"
+    },
+    "recipe3": {
+		"url":"https://images-gmi-pmc.edge-generalmills.com/2a33739e-b0c8-4241-9f15-182bdd4331f2.jpg",
+        "_id": "5bf92a2a7bb880352b3d6fd9",
+        "title": "Cheeseburger Meatloaf ",
+        "difficulty": 1,
+        "ingredients_clean": [
+            [
+                2,
+                "pound",
+                "ground beef",
+                null,
+                null
+            ],
+            [
+                0.75,
+                "cup",
+                "fresh bread crumbs",
+                null,
+                null
+            ],
+            [
+                0.5,
+                "cup",
+                "minced onion",
+                null,
+                null
+            ],
+            [
+                2,
+                null,
+                "egg",
+                ", beaten",
+                null
+            ],
+            [
+                1.5,
+                "teaspoon",
+                "salt",
+                null,
+                null
+            ],
+            [
+                1.5,
+                "teaspoon",
+                "ground black pepper",
+                null,
+                null
+            ],
+            [
+                3,
+                "cup",
+                "shredded Cheddar cheese",
+                null,
+                null
+            ]
+        ],
+        "instructions": "Preheat oven to 350 degrees F (175 degrees C).\nIn a large bowl, combine the beef, bread crumbs, onion, eggs, salt and pepper, and mix well. Pat out meat mixture into a 14x18 inch rectangle on a piece of wax paper. Spread cheese over the meat, leaving a 3/4 inch border around the edges. Roll up jelly roll fashion to enclose the filling and form a pinwheel loaf. Press beef in on both ends to enclose the cheese. Place in a 10x15 inch baking dish.\nBake in the preheated oven 1 hour, or until internal temperature reaches 160 degrees F (70 degrees C).\n",
+        "number of parts": 4,
+        "picture_link": "wtndCBjTrS3tnr5PQqbqxg6FdbDOf86",
+        "tags": [
+            "vegan",
+            "oven"
+        ],
+        "tags_2": "vegan, oven"
+    },
+    "recipe4": {
+		"url":"https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/3acac8a1-30de-441d-83b0-e905d950bf4a/8b240332-81c6-43c4-9135-7df8d14bedf3/1280x720/match/image.jpg",
+        "_id": "5bf92a2a7bb880352b3d7037",
+        "title": "Cheese and Bacon Potato Rounds",
+        "difficulty": 1,
+        "ingredients_clean": [
+            [
+                4,
+                null,
+                "baking potatoes",
+                "cut into 1/2 inch slices",
+                null
+            ],
+            [
+                0.25,
+                "cup",
+                "melted butter",
+                null,
+                null
+            ],
+            [
+                8,
+                null,
+                "slices bacon",
+                "cooked and crumbled",
+                null
+            ],
+            [
+                8,
+                "ounce",
+                "shredded Cheddar cheese",
+                null,
+                null
+            ],
+            [
+                0.5,
+                "cup",
+                "chopped green onions",
+                null,
+                null
+            ]
+        ],
+        "instructions": "Preheat oven to 400 degrees F (200 degrees C).\nBrush both side of potato slices with butter; place them on an ungreased cookie sheet. Bake in the preheated 400 degrees F (200 degrees C) oven for 30 to 40 minutes or until lightly browned on both sides, turning once.\nWhen potatoes are ready, top with bacon, cheese, and green onion; continue baking until the cheese has melted\n",
+        "number of parts": 4,
+        "picture_link": "0jyDB2eB./uNmwmYq8DhrsO00.TQ6pK",
+        "tags": [
+            "vegan",
+            "oven"
+        ],
+        "tags_2": "vegan, oven"
+    },
+    "recipe5": {
+		"url":"https://images-gmi-pmc.edge-generalmills.com/89db2ad4-3bee-4c51-ac17-b9e75811cb46.jpg",
+        "_id": "5bf92a2a7bb880352b3d705e",
+        "title": "Grilled Cheese Sandwich",
+        "difficulty": 1,
+        "ingredients_clean": [
+            [
+                4,
+                null,
+                "slices white bread",
+                null,
+                null
+            ],
+            [
+                3,
+                null,
+                "butter",
+                "divided",
+                null
+            ],
+            [
+                2,
+                null,
+                "slices Cheddar cheese",
+                null,
+                null
+            ]
+        ],
+        "instructions": "Preheat skillet over medium heat. Generously butter one side of a slice of bread. Place bread butter-side-down onto skillet bottom and add 1 slice of cheese. Butter a second slice of bread on one side and place butter-side-up on top of sandwich. Grill until lightly browned and flip over; continue grilling until cheese is melted. Repeat with remaining 2 slices of bread, butter and slice of cheese.\n",
+        "number of parts": 4,
+        "picture_link": "xj5aLqWbgj.zS6ZXn59rxReqY2bcpVm",
+        "tags": [],
+        "tags_2": null
+    },
+    "recipe6": {
+		"url":"https://www.joyofkosher.com/.image/t_share/MTM0MjEwOTcxNzQ4MDE4ODE5/blue-cheese-dressingjpg.jpg",
+        "_id": "5bf92a2a7bb880352b3d7062",
+        "title": "Bill's Blue Cheese Dressing",
+        "difficulty": 1,
+        "ingredients_clean": [
+            [
+                0.75,
+                "cup",
+                "sour cream",
+                null,
+                null
+            ],
+            [
+                1.3333333333,
+                "cup",
+                "mayonnaise",
+                null,
+                null
+            ],
+            [
+                1,
+                "teaspoon",
+                "Worcestershire sauce",
+                null,
+                null
+            ],
+            [
+                0.5,
+                "teaspoon",
+                "dry mustard",
+                null,
+                null
+            ],
+            [
+                0.5,
+                "teaspoon",
+                "garlic powder",
+                null,
+                null
+            ],
+            [
+                0.5,
+                "teaspoon",
+                "salt",
+                null,
+                null
+            ],
+            [
+                0.5,
+                "teaspoon",
+                "ground black pepper",
+                null,
+                null
+            ],
+            [
+                4,
+                null,
+                "blue cheese",
+                "crumbled",
+                null
+            ]
+        ],
+        "instructions": "In a large bowl, whisk together the sour cream, mayonnaise and Worcestershire sauce. Season with mustard, garlic powder, salt and pepper. Stir in blue cheese. Cover, and refrigerate for 24 hours before serving.\n",
+        "number of parts": 4,
+        "picture_link": "YWJS6UsHpouVHExNFV85Zd9vqec8kTq",
+        "tags": [],
+        "tags_2": null
+    },
+    "recipe7": {
+		"url":"https://www.muellerspasta.com/wp-content/uploads/2016/08/Mac-and-Cheese-HR-for-Web.jpg",
+        "_id": "5bf92a2a7bb880352b3d7077",
+        "title": "Old Fashioned Mac and Cheese",
+        "difficulty": 2,
+        "ingredients_clean": [
+            [
+                2,
+                "cup",
+                "uncooked elbow macaroni",
+                null,
+                null
+            ],
+            [
+                4,
+                "tablespoon",
+                "butter",
+                null,
+                null
+            ],
+            [
+                2,
+                "tablespoon",
+                "all-purpose flour",
+                null,
+                null
+            ],
+            [
+                2,
+                "cup",
+                "milk",
+                null,
+                null
+            ],
+            [
+                0.25,
+                null,
+                "onion",
+                "minced",
+                null
+            ],
+            [
+                1,
+                null,
+                "salt and pepper to taste",
+                null,
+                null
+            ],
+            [
+                0.25,
+                "pound",
+                "processed cheese food",
+                null,
+                null
+            ],
+            [
+                0.25,
+                "pound",
+                "shredded Cheddar cheese",
+                null,
+                null
+            ],
+            [
+                0.25,
+                "pound",
+                "shredded Swiss cheese",
+                null,
+                null
+            ]
+        ],
+        "instructions": "Preheat oven to 350 degrees F (175 degrees C).\nPrepare the elbow macaroni according to package directions.\nMeanwhile, melt the butter in a small saucepan over medium high heat. Stir in the flour until a cream colored paste forms. Then pour in the milk and stir constantly until this comes to a hard boil, then stir for 1 more minute. Remove from heat and set aside.\nWhen the macaroni is cooked, spread 1/2 of it into the bottom of a lightly greased 9x13-inch baking dish. Then layer 1/2 of the grated onion, 1/2 of the salt and pepper and 1/2 of each of the cheeses. Repeat this one more time: macaroni, onion, salt and pepper and cheeses, and then pour the reserved white sauce over all. Top off with small pats of butter to taste.\nCover and bake at 350 degrees F (175 degrees C) for 45 minutes.\n",
+        "number of parts": 4,
+        "picture_link": "LJRIXEAfkf8cX.tdb0V8OjZHPpqtQ2e",
+        "tags": [
+            "oven"
+        ],
+        "tags_2": "oven"
+    },
+    "recipe8": {
+		"url":"http://treasurecavecheese.com/-/media/ecosystem/divisions/scusa/sites/treasure-cave/treasure-cave-images/recipes/feta-cheese-verde-turkey-burger.ashx?revision=56f98594-7f8a-4876-9a39-8735747d7861",
+        "_id": "5bf92a2a7bb880352b3d70d9",
+        "title": "Feta Cheese Turkey Burgers",
+        "difficulty": 1,
+        "ingredients_clean": [
+            [
+                1,
+                "pound",
+                "ground turkey",
+                null,
+                null
+            ],
+            [
+                1,
+                "cup",
+                "crumbled feta cheese",
+                null,
+                null
+            ],
+            [
+                0.5,
+                null,
+                "kalamata olives",
+                "pitted and sliced",
+                null
+            ],
+            [
+                2,
+                "teaspoon",
+                "dried oregano",
+                null,
+                null
+            ],
+            [
+                1,
+                null,
+                "ground black pepper to taste",
+                null,
+                null
+            ]
+        ],
+        "instructions": "Preheat the grill for medium high heat.\nIn a large bowl, combine turkey, feta cheese, olives, oregano, and pepper. Mix together, and form into patties.\nLightly oil the grate. Place patties on the grill. Cook for 10 to 12 minutes, turning halfway through.\n",
+        "number of parts": 4,
+        "picture_link": "O5zYsCFwkqzqKz/Me8a2pY5VL/LhTFG",
+        "tags": [],
+        "tags_2": null
+    },
+    "recipe9": {
+		"url":"http://4.bp.blogspot.com/-BYDkCVoGl-4/TVn0iQzB4LI/AAAAAAAAAHk/omZh6JPB-eg/s1600/IMG_4884x.jpg",
+        "_id": "5bf92a2a7bb880352b3d7107",
+        "title": "Blue Cheese Crusted Filet Mignon with Port Wine Sauce",
+        "difficulty": 3,
+        "ingredients_clean": [
+            [
+                1,
+                "tablespoon",
+                "butter",
+                null,
+                null
+            ],
+            [
+                0.5,
+                "cup",
+                "minced white onion",
+                null,
+                null
+            ],
+            [
+                3,
+                null,
+                "cloves garlic",
+                "minced",
+                null
+            ],
+            [
+                1,
+                "tablespoon",
+                "chopped fresh thyme",
+                null,
+                null
+            ],
+            [
+                0.75,
+                "cup",
+                "low-sodium beef broth",
+                null,
+                null
+            ],
+            [
+                0.5,
+                "cup",
+                "port wine",
+                null,
+                null
+            ],
+            [
+                1,
+                "tablespoon",
+                "vegetable oil",
+                null,
+                null
+            ],
+            [
+                4,
+                null,
+                "filet mignon steaks",
+                "(1 1/2 inch thick)",
+                null
+            ],
+            [
+                0.75,
+                "cup",
+                "crumbled blue cheese",
+                null,
+                null
+            ],
+            [
+                0.25,
+                "cup",
+                "panko bread crumbs",
+                null,
+                null
+            ]
+        ],
+        "instructions": "Melt butter in a skillet over medium heat. Add the onion, garlic and thyme. Cook, stirring constantly, until onion is tender. Stir in the beef broth, scraping any onion bits from the bottom of the pan, then stir in the port wine. Bring to a boil, and cook until the mixture has reduced to about 1/2 cup. Set aside. This may also be made ahead of time, and reheated.\nPreheat the oven to 350 degrees F (175 degrees C). Heat oil in a cast-iron or other oven-safe skillet over high heat. Sear steaks quickly on both sides until brown, then place the whole pan into the oven.\nRoast steaks in the oven for about 15 minutes for medium rare - with an internal temperature of 145 degrees F (63 degrees C). You may adjust this time to allow the steaks to finish just below your desired degree of doneness if medium is not what you prefer. Remove from the oven, and place on a baking sheet. Stir together the panko crumbs and blue cheese. Top each steak with a layer of this mixture.\nPreheat the oven's broiler. Place steaks under the preheated broiler until the cheese topping is browned and bubbly. 3 to 4 minutes. Remove from the oven, and let stand for at least 15 minutes before serving. Serve with warm port wine sauce.\n",
+        "number of parts": 4,
+        "picture_link": "ZjHIjyRXWqDc0WQ1H4RwH6H72GCe1Ga",
+        "tags": [
+            "vegan",
+            "oven"
+        ],
+        "tags_2": "vegan, oven"
+    },
+    "recipe10": {
+		"url":"https://sofabfood.com/wp-content/uploads/2016/09/creamy-chicken-broccoli-cheddar-soup-1.jpg",
+        "_id": "5bf92a2a7bb880352b3d710f",
+        "title": "Cheese and Broccoli Chicken Soup",
+        "difficulty": 1,
+        "ingredients_clean": [
+            [
+                0.5,
+                "cup",
+                "butter",
+                null,
+                null
+            ],
+            [
+                1,
+                "cup",
+                "all-purpose flour",
+                null,
+                null
+            ],
+            [
+                11,
+                "cup",
+                "water",
+                null,
+                null
+            ],
+            [
+                3,
+                null,
+                "cubes chicken bouillon",
+                null,
+                null
+            ],
+            [
+                2,
+                null,
+                "skinless",
+                "boneless chicken breast halves, cut into bite-size pieces",
+                null
+            ],
+            [
+                2,
+                null,
+                "heads fresh broccoli",
+                "cut into florets",
+                null
+            ],
+            [
+                1.5,
+                "teaspoon",
+                "salt",
+                null,
+                null
+            ],
+            [
+                1,
+                "teaspoon",
+                "ground black pepper",
+                null,
+                null
+            ],
+            [
+                1,
+                "cup",
+                "light cream",
+                null,
+                null
+            ],
+            [
+                3,
+                "cup",
+                "shredded Cheddar cheese",
+                null,
+                null
+            ]
+        ],
+        "instructions": "In a 5-quart pot, melt butter over medium heat. Mix in flour, stirring constantly until a thick paste forms. Remove from pot, and set aside.\nIn same pot, combine water, bouillon cubes, chicken, broccoli, salt and pepper. Bring to boil over high heat. Reduce heat to medium low, and simmer for 45 minutes.\nStir in the flour mixture a little bit at a time until soup thickens. Simmer 5 minutes. Reduce heat, and stir in cream. Mix in cheese 1 cup at a time, and stir until melted.\n",
+        "number of parts": 4,
+        "picture_link": "ByYAxfuVpl5unGws/ciD2gP0sDuLfRG",
+        "tags": [
+            "vegan"
+        ],
+        "tags_2": "vegan"
+    }
+}
